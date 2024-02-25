@@ -16,8 +16,8 @@
 </p>
 
 ## Tech I'm Familiar with:
-• **MERN STACK**: HTML, CSS, Tailwind, JavaScript, JSON, JQuery, NodeJs, Express.JS, EJS, RestAPI, Postman, Git / GitHub, SQL, MongoDB, Mongoose, React js, GitBash, Linux
-• **Developer Tools:** VS Code, Sublime Text, Jupyter Notebook, Google Colab, CodeBlocks, online editors
-• **Hosting Tools & Technologies:** Netlify, Vercel, Render, GitHub-Pages, Cyclic, GoDaddy
-• **No-Code Technologies:** WordPress, Google Sites, Notion, Woo-commerce, Elementor, Luma
-• **Other Technologies:** C, C++, Python, Flask
+- **MERN STACK**: HTML, CSS, Tailwind, JavaScript, JSON, JQuery, NodeJs, Express.JS, EJS, RestAPI, Postman, Git / GitHub, SQL, MongoDB, Mongoose, React js, GitBash, Linux
+- **Developer Tools:** VS Code, Sublime Text, Jupyter Notebook, Google Colab, CodeBlocks, online editors
+- **Hosting Tools & Technologies:** Netlify, Vercel, Render, GitHub-Pages, Cyclic, GoDaddy
+- **No-Code Technologies:** WordPress, Google Sites, Notion, Woo-commerce, Elementor, Luma
+- **Other Technologies:** C, C++, Python, Flask
